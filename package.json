@@ -1,0 +1,22 @@
+{
+  "name": "nodejslogin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crishann/nodejslogin.git"
+  },
+  "author": "Cristian Torrejos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crishann/nodejslogin/issues"
+  },
+  "homepage": "https://github.com/crishann/nodejslogin#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
